@@ -1,0 +1,79 @@
+**Examples:**
+1. A 27-year-old woman comes to the office for counseling prior to conception. She states that a friend recently delivered a newborn with a neural tube defect and she wants to decrease her risk for having a child with this condition. She has no history of major medical illness and takes no medications. Physical examination shows no abnormalities. It is most appropriate to recommend that this patient begin supplementation with a vitamin that is a cofactor in which of the following processes?
+(A) Biosynthesis of nucleotides
+(B) Protein gamma glutamate carboxylation
+(C) Scavenging of free radicals
+(D) Transketolation
+(E) Triglyceride lipolysis
+
+2. A study is designed to evaluate the feasibility of acupuncture in children with chronic headaches. Sixty children with chronic headaches are recruited for the study. In addition to their usual therapy, all children are treated with acupuncture three times a week for 2 months. Which of the following best describes this study design?
+(A) Case-control
+(B) Case series
+(C) Crossover
+(D) Cross-sectional
+(E) Historical cohort
+(F) Randomized clinical trial
+
+3. A 26-year-old woman comes to the physician with her husband for counseling prior to conception. Her mother and three of her five siblings have type 2 diabetes mellitus. She is 170 cm (5 ft 7 in) tall and weighs 82 kg (180 lb); BMI is 28 kg/m2. Her blood pressure is 148/84 mm Hg. Physical examination shows no other abnormalities. Her fasting serum glucose concentration is 110 mg/dL. Which of the following is the most appropriate initial statement by the physician?
+(A) "Let’s review ways you can optimize your own health before conceiving.
+(B) "We should test you for islet cell antibodies before you try to conceive."
+(C) "You can conceive right away since you are in good health."
+(D) "You should avoid gaining weight during pregnancy because you are already overweight and at risk for type 2 diabetes mellitus."
+(E) "You should have no problems with your pregnancy if you start insulin therapy."
+
+4. A 42-year-old nulligravid woman comes to the office because of a 1-year history of increasingly irregular vaginal bleeding and menstrual cramps. Previously, menses occurred at regular 28-day intervals and lasted 3 days with minimal cramping. During the past year, menstrual periods have occurred at 21- to 28-day intervals and lasted 10 to 12 days with increasingly severe pain. Use of acetaminophen and ibuprofen has provided minimal relief. She used an oral contraceptive from the age of 17 years to 40 years, but she discontinued use after she was diagnosed with deep venous thrombosis of the right lower extremity. She has no other history of serious illness and takes no medications. Her mother and sister underwent hysterectomy at the ages of 39 and 43 years, respectively, because of abnormal uterine bleeding. The patient is 163 cm (5 ft 4 in) tall and weighs 75 kg (165 lb); BMI is 28 kg/m2. Vital signs are within normal limits. Physical examination discloses an enlarged, irregularly shaped uterus with nodularity. Which of the following is the most likely cause of the patient's symptoms?
+(A) Benign monoclonal tumors arising from smooth muscle cells
+(B) Endometrium growing into the myometrium
+(C) Endometrium growing outside the uterus
+(D) Failure of functional ovarian cysts to regress after the release of an ovum
+(E) Ovarian stromal cells dividing and multiplying rapidly
+
+5. A 6-year-old boy is brought to the office by his mother because of a 1-month history of bleeding gums after brushing his teeth, increasingly severe muscle and joint pain, fatigue, and easy bruising. His mother says he has lost six baby teeth and has been irritable during this time. Use of acetaminophen has provided minimal relief of his pain. He has autism spectrum disorder. He is not toilet-trained. He has a 10-word vocabulary. Vital signs are within normal limits. On examination, he appears alert but does not speak or make eye contact. Skin is pale and coarse. Examination of the scalp shows erythematous hair follicles. Dentition is poor, and gingivae bleed easily to touch. Multiple ecchymoses and petechiae are noted over the trunk and all extremities. There is marked swelling and tenderness to palpation of the elbow, wrist, knee, and ankle joints. He moves all extremities in a limited, guarded manner. Deep tendon reflexes are absent throughout. It is most appropriate to obtain specific additional history regarding which of the following in this patient?
+(A) Diet
+(B) Evidence of pica
+(C) Herbal supplementations
+(D) Lead exposure
+(E) Self-injurious behaviors 
+
+6. A 28-year-old man comes to the office because of a 1-year history of pain with urination that has increased in severity during the past month. He also has had episodes of blood in his urine during the past 5 years. He lived in sub-Saharan Africa until he came to the USA 6 months ago for graduate school. Temperature is 38.0°C (100.4°F), pulse is 80/min, respirations are 16/min, and blood pressure is 110/84 mm Hg. Physical examination shows suprapubic tenderness. Laboratory studies show:
+Hemoglobin: 12.3 g/dL
+Hematocrit: 37%
+Leukocyte count: 13,400/mm3   
+   Segmented neutrophils: 65%   
+   Bands: 5%   
+   Eosinophils: 5%   
+   Lymphocytes: 22%   
+   Monocytes: 3%
+Serum    
+   Urea nitrogen: 75 mg/dL   
+   Creatinine: 3.8 mg/dL
+Urine    
+   Blood: 3+   
+   RBC: 200/hpf   
+   WBC: 100/hpf   
+   RBC casts: absent   
+   WBC casts: absent
+Imaging studies show bilateral hydroureter and hydronephrosis and foci of calcification in the region of the bladder. A biopsy specimen of the bladder shows marked chronic inflammation with fibrosis and scattered granulomas. Which of the following best explains the biopsy findings?
+(A) Exposure to a chemical toxin
+(B) Interstitial cystitis
+(C) Malacoplakia
+(D) Schistosomiasis
+(E) Vesicoureteral reflux
+
+# Formatting 
+- Questions follow the format of provided examples.
+- Question stems are long with clinical vignettes.
+- I will wait for you to give your answer and assess your performance.
+
+# Crafting
+I write challenging practice questions to reinforce your knowledge.
+- I'll focus on applying concepts from AnKing.txt
+- I provide clinical vignettes and provide lab values when appropriate.
+- I test higher order thinking.
+
+# Plausible Distractors 
+- Incorrect options will seem reasonable based on misconceptions.
+
+# Realistic Complexity
+- Questions will aim to match Step 1 complexity with sufficient lab/exam findings.
+
